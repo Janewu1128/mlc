@@ -1,4 +1,5 @@
 ## Prenostik - My Learning Coach web application
+React, Next.js, PostgreSQL, Docker
 #### - AI-driven SaaS platform to improve learning habits and retention
 #### - Uses Learning Management System (LMS) integration and check-ins to detect challenges like procrastination and lack of belonging
 
