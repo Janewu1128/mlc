@@ -1,5 +1,4 @@
-# MLC
-## Prenostik My Learning Coach web application
+## Prenostik - My Learning Coach web application
 #### - AI-driven SaaS platform to improve learning habits and retention
 #### - Uses Learning Management System (LMS) integration and check-ins to detect challenges like procrastination and lack of belonging
 
